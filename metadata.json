@@ -1,0 +1,8 @@
+{
+  "name": "FB Commerce Automation Admin",
+  "description": "A comprehensive admin dashboard for managing Facebook page commerce, including unified inbox, order management, payment verification, and AI-driven comment moderation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
